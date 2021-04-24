@@ -17,3 +17,12 @@ This data is fairly misleading as is the graph itself. There does not appear to 
 #Shortfall of currrent data
 
 Data does not provide any detail into the investment on the part of the campaign runner for advertising, nor does it provide information of the investors demographics or the campaigns target audience. Having that information would go a long way towards designing a campaign above $5000 that would have a higher chance of success. That information could also help a campaign runner feel more confident before starting a campaign that has a funding goal above $45,000. I personally would not start a campaign above $45,000 without significantly more data.
+
+#Links to graphs
+
+Theatre Outcomes vs Launch
+https://github.com/NitewingGW/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.PNG
+
+Outcomes vs Goals
+https://github.com/NitewingGW/kickstarter-analysis/blob/main/Outcomes_vs_Goals.PNG
+
