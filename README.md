@@ -21,8 +21,10 @@ Data does not provide any detail into the investment on the part of the campaign
 #Links to graphs
 
 Theatre Outcomes vs Launch
+
 https://github.com/NitewingGW/kickstarter-analysis/blob/main/Theatre_Outcomes_vs_Launch.PNG
 
 Outcomes vs Goals
+
 https://github.com/NitewingGW/kickstarter-analysis/blob/main/Outcomes_vs_Goals.PNG
 
