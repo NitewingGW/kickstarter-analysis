@@ -28,3 +28,7 @@ Outcomes vs Goals
 
 https://github.com/NitewingGW/kickstarter-analysis/blob/main/Outcomes_vs_Goals.PNG
 
+#Link to Data and analysis file
+
+https://github.com/NitewingGW/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx
+
